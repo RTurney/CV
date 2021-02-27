@@ -1,5 +1,5 @@
 # Richard James Turney - CV
-[Introduction](#personal-profile)| [Projects](#projects) | [Software Skills](#software-skills) | [[Skills](#software-skills) | Experience](#work-experience) | [Education](#work-experience)
+[Introduction](#personal-profile)| [Projects](#projects) | [Software Skills](#software-skills) | [[Skills](#software-skills) | [Experience](#work-experience) | [Education](#work-experience)
 
 ## [Personal profile](#personal-profile):
 
@@ -35,13 +35,13 @@ Project two | url| tech
 
 ## [Skills](#skills)
 
-* Fast learner - Able to take on new technologies and learn new practices rapidly and efficiently. Always eager to learn new skills and techniques. Learning is one of my key motivations and I excel at it. 
-* Adaptable - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked with all sorts of different people, teams and in different locations around the world. I have always been able to rise to the challenge and come out the other side successful. 
-* Problem-solver - Always approach problems with a cool and level mindset. Through my experiences and training at Makers, I have hwo to tackle every problem with a step-by-step procedure for identifying the key components of an issue and resolving them. 
-* Attention to detail - My time as a microscopy imaging specialist has strengthened my keen sense of attention-to-detail, allowing me to spot issues that others may have missed. 
-* Enthusiastic - An upbeat personality, which I believe that is always tanslated into my work. I bring an enthusiasma and determination to every project I work on. 
-* Team-player - I enjoying working in teams and revel in meeting new people. I bring enthusiam but also a calming presence to teams. Always looking to mediate when issues arise and ensuring all members feel included within the team. 
-* Determined - A key attribute to my personality and my most valued skill. I work with a constant determination regardless of the challenge ahead of me. I don't like to leave something unfinished and will always push myself to the best of my abilities. 
+* **Fast learner** - Able to take on new technologies and learn new practices rapidly and efficiently. Always eager to learn new skills and techniques. Learning is one of my key motivations and I excel at it. 
+* **Adaptable** - New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked with all sorts of different people, teams and in different locations around the world. I have always been able to rise to the challenge and come out the other side successful. 
+* **Problem-solver** - Always approach problems with a cool and level mindset. Through my experiences and training at Makers, I have hwo to tackle every problem with a step-by-step procedure for identifying the key components of an issue and resolving them. 
+* **Attention to detail** - My time as a microscopy imaging specialist has strengthened my keen sense of attention-to-detail, allowing me to spot issues that others may have missed. 
+* **Enthusiastic** - An upbeat personality, which I believe that is always tanslated into my work. I bring an enthusiasma and determination to every project I work on. 
+* **Team-player** - I enjoying working in teams and revel in meeting new people. I bring enthusiam but also a calming presence to teams. Always looking to mediate when issues arise and ensuring all members feel included within the team. 
+* **Determined** - A key attribute to my personality and my most valued skill. I work with a constant determination regardless of the challenge ahead of me. I don't like to leave something unfinished and will always push myself to the best of my abilities. 
 
 ## [Work experience](#work-experience):
 
