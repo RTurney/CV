@@ -3,7 +3,9 @@
 
 ## [Personal profile](#personal-profile):
 
-A quick section about me
+Junior full stack developer with an interest in backend development. I am looking for a role which will allow me to further consolidate and develop my programming knowledge, as well as gain exposure to current business practices. 
+
+I have recently switched from a career in Biological sciences to software development with the aid of Makers 12 week bootcamp. I am a driven and 
 
 ## [Projects](#projects):
 
@@ -15,9 +17,13 @@ Project two | url| tech
 ## [Work experience](#work-experience):
 
 
-## [Software skills](#software-skills) 
+## [Software skills](#software-skills): 
 
 
-## [Education](#work-experience)
+## [Education](#work-experience):
 
-## Project plans 
+## Additiional skills: 
+
+## Interests:
+
+## Upcoming project plans: 
