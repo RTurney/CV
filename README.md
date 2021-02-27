@@ -1,5 +1,5 @@
 # Richard James Turney - CV
-[Introduction](#personal-profile)| [Projects](#projects) | [Experience](#work-experience) | [Skills](#software-skills) | [Education](#work-experience)
+[Introduction](#personal-profile)| [Projects](#projects) | [Software Skills](#software-skills) | [[Skills](#software-skills) | Experience](#work-experience) | [Education](#work-experience)
 
 ## [Personal profile](#personal-profile):
 
@@ -100,6 +100,12 @@ MSc in Biology and Control of Parasites and their Disease Vectors, **1.1**
 BSc in Biological Sciences, **1.1**
 
 ## Interests:
+
+* Coding (of course!) 
+* Board/video games
+* 3D modelling and printing
+* Climbing
+* Nature
 
 ## Contact:
 * **Github:** RTurney
