@@ -108,6 +108,6 @@ BSc in Biological Sciences, **1.1**
 * Nature
 
 ## Contact:
-* **Github:** RTurney
+* **Github:** [RTurney](https://github.com/RTurney)
 * **email:** r.turney93@gmail.com
-* **LinkedIn:** linkedin.com/in/richard-turney-4ab178113
+* **LinkedIn:** [linkedin.com/in/richard-turney](linkedin.com/in/richard-turney-4ab178113)
