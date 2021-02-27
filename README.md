@@ -45,6 +45,13 @@ I was also responsible for organising and preparing patient prescription receipt
 
 ## Voluntary experience: 
 
+I have always had an interest in volunteer work and have had multiple experiences in volunteering. For the sake of keeping this CV short, I have ommited the details of each voluntary role, but I am always happy to talk further about these experiences:
+
+* **Data collector, Earthwatch, Germany (Full-time) June 2014 – June 2014**	
+* **Data collector, Frontier, Fijian Island of Gau (Full-time) April 2012 – May 2012**
+* **Volunteer care assistant, RSPCA, Stapeley (part-time) November 2009 – July 2012**	
+* **Volunteer, St John Ambulance, Hanley Division (part-time) December 2009 – July 2012**
+
 
 ## [Software skills](#software-skills): 
 
