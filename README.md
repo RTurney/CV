@@ -5,7 +5,7 @@
 
 Junior full stack developer with an interest in backend development. I am looking for a role which will allow me to further consolidate and develop my programming knowledge, as well as gain exposure to current business practices. 
 
-I have recently switched from a career in Biological sciences to software development with the aid of Makers 12 week bootcamp. I am a driven and 
+I have recently switched from a career in Biological sciences to software development with the aid of Makers 12-week bootcamp. I am a driven and hardworking individual with a keen mind for problem solving. I believe I have excellent communication skills, both written and spoken, priding myself on my ability to help others understand complex or difficult concepts. 
 
 ## [Projects](#projects):
 
