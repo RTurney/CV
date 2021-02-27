@@ -58,6 +58,25 @@ I have always had an interest in volunteer work and have had multiple experience
 
 ## [Education](#work-experience):
 
+##### Makers Academy (January 2021 to Present - graduation date March 2021)
+12 week intensive coding bootcamp.
+
+Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+Object oriented programming & software design
+Full stack web development
+Learn languages through translation
+Taught in good coding convention
+Taught to be an independent learner and problem-solver
+Aspiration to software craftsmanship
+Experience with MVC framework patterns
+
+#### Liverpool School of Tropical Medicine (2015 – 2016)
+MSc in Biology and Control of Parasites and their Disease Vectors, **1.1**
+
+#### University of East Anglia (2012 – 2015)
+BSc in Biological Sciences, **1.1**
+
+
 ## Additional skills: 
 
 ## Interests:
