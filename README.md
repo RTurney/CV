@@ -29,7 +29,6 @@ Pipeface (facebook clone) | https://github.com/jshields123/acebook--Pipeface- | 
 	6. CSS
 	7. R 
 	8. SQL
-	9. Postgresql 
 
 * Agile and XP methodolgies
 * Test driven development 
