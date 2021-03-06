@@ -13,8 +13,10 @@ I am now currently looking for a role in London/Reading/Cambridge which will all
 
 Project Title | Project link | Tech tools 
 --------------|--------------|-------------
-Project one | url | tech
-Project two | url| tech
+Makers BnB | https://github.com/JoshSinyor/makersbnb | Ruby, Sinatra, Active Record, HTML, SQL, CSS
+News Headlines challenge | https://github.com/RTurney/news-summary-challenge | Javascript, HTML, CSS
+Pipeface (facebook clone) | https://github.com/jshields123/acebook--Pipeface- | Ruby on rails, HTML, CSS, Active Record, SQL
+
 
 ## [Software skills](#software-skills): 
 
