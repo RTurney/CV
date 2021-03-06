@@ -93,6 +93,7 @@ Taught in good coding convention
 Taught to be an independent learner and problem-solver
 Aspiration to software craftsmanship
 Experience with MVC framework patterns
+Please feel free to look over my personal learning log from my time at Maker's academy and see how I developed over three months => https://github.com/RTurney/Learning-portfolio
 
 #### Liverpool School of Tropical Medicine (2015 – 2016)
 MSc in Biology and Control of Parasites and their Disease Vectors, **1.1**
