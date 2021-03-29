@@ -1,5 +1,5 @@
 # Richard James Turney - CV
-[Introduction](#personal-profile)| [Projects](#projects) | [Software Skills](#software-skills) | [Skills](#software-skills) | [Experience](#work-experience) | [Education](#work-experience)
+[Introduction](#personal-profile)| [Projects](#projects) | [Software Skills](#software-skills) | [Skills](#software-skills) | [Experience](#work-experience) | [Education](#work-experience) | [Interests](#interests) (the human part) | [Contact](#contact)
 
 ## [Personal profile](#personal-profile):
 
@@ -16,7 +16,7 @@ Project Title | Project link | Summary |Tech tools
 Makers BnB | https://github.com/JoshSinyor/makersbnb | Week long team project to develop a clone of Air BnB's website. | Ruby, Sinatra, Active Record, HTML, SQL, CSS
 News Headlines challenge | https://github.com/RTurney/news-summary-challenge | A solo project to develop a simple single web page app to display the Guardian's daily headlines using an API | Javascript, HTML, CSS
 Pipeface | https://github.com/jshields123/acebook--Pipeface- | A two week team engineering project to emulate a social media platform using Ruby on rails framework | Ruby on rails, HTML, CSS, Active Record, SQL
-SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. We designed our own mobile app gameified todo list | Javascript, REACT native, Jest, Firebase, HTML, CSS
+SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. We designed our own mobile app which was a gameified todo list | Javascript, REACT native, Jest, Firebase, HTML, CSS
 
 
 ## [Software skills](#software-skills): 
@@ -109,7 +109,7 @@ MSc in Biology and Control of Parasites and their Disease Vectors, **1.1**
 #### University of East Anglia (2012 – 2015)
 BSc in Biological Sciences, **1.1**
 
-## Interests:
+## [Interests:](#interests)
 
 * Coding (of course!) 
 * Board/video games
@@ -117,7 +117,7 @@ BSc in Biological Sciences, **1.1**
 * Climbing
 * Nature
 
-## Contact:
+## [Contact:](#contact)
 * **Github:** [RTurney](https://github.com/RTurney)
 * **email:** r.turney93@gmail.com
 * **LinkedIn:** [linkedin.com/in/richard-turney](linkedin.com/in/richard-turney-4ab178113)
