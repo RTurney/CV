@@ -115,7 +115,7 @@ BSc in Biological Sciences, **1.1**
 * Board/video games
 * 3D modelling and printing
 * Climbing
-* Nature
+* Nature (big part of why I was a biologist)
 
 ## [Contact:](#contact)
 * **Github:** [RTurney](https://github.com/RTurney)
