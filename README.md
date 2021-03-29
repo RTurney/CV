@@ -16,6 +16,7 @@ Project Title | Project link | Summary |Tech tools
 Makers BnB | https://github.com/JoshSinyor/makersbnb | Week long team project to develop a clone of Air BnB's website. | Ruby, Sinatra, Active Record, HTML, SQL, CSS
 News Headlines challenge | https://github.com/RTurney/news-summary-challenge | A solo project to develop a simple single web page app to display the Guardian's daily headlines using an API | Javascript, HTML, CSS
 Pipeface | https://github.com/jshields123/acebook--Pipeface- | A two week team engineering project to emulate a social media platform using Ruby on rails framework | Ruby on rails, HTML, CSS, Active Record, SQL
+SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. We designed our own mobile app gameified todo list | Javascript, REACT native, Jest, Firebase, HTML, CSS
 
 
 ## [Software skills](#software-skills): 
@@ -29,6 +30,13 @@ Pipeface | https://github.com/jshields123/acebook--Pipeface- | A two week team e
 	6. CSS
 	7. R 
 	8. SQL
+	9. React Native
+
+* Test languages: 
+	1. RSpec
+	2. Jest
+	3. Jasmine
+	4. Capybara
 
 * Agile and XP methodolgies
 * Test driven development 
