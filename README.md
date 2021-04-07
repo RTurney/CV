@@ -13,9 +13,9 @@ I am now currently looking for a role in London/Reading/Cambridge which will all
 
 Project Title | Project link | Summary |Tech tools 
 --------------|--------------|---------|------------
-Makers BnB | https://github.com/JoshSinyor/makersbnb | Week long team project to develop a clone of Air BnB's website. | Ruby, Sinatra, Active Record, HTML, SQL, CSS
-News Headlines challenge | https://github.com/RTurney/news-summary-challenge | A solo project to develop a simple single web page app to display the Guardian's daily headlines using an API | Javascript, HTML, CSS
-Pipeface | https://github.com/RTurney/acebook--Pipeface- | A two week team engineering project to emulate a social media platform using Ruby on rails framework | Ruby on rails, HTML, CSS, Active Record, SQL
+Makers BnB | https://github.com/RTurney/makersbnb | Week long team project to develop a clone of Air BnB's website. | Ruby, Sinatra, Active Record, HTML, SQL, CSS, Rspec, Capybara. 
+News Headlines challenge | https://github.com/RTurney/news-summary-challenge | A solo project to develop a simple single web page app to display the Guardian's daily headlines using an API | Javascript, HTML, CSS, Jasmine. 
+Pipeface | https://github.com/RTurney/acebook--Pipeface- | A two week team engineering project to emulate a social media platform using Ruby on rails framework | Ruby on rails, HTML, CSS, Active Record, SQL, Rspec, Capybara. 
 SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. We designed our own mobile app which was a gameified todo list | Javascript, REACT native, Jest, Firebase, HTML, CSS
 
 
