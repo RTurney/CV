@@ -21,26 +21,15 @@ SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. W
 
 ## [Software skills](#software-skills): 
 
-* Languages: 
-	1. Ruby
-	2. Rails
-	3. Python
-	4. Javascript 
-	5. HTML
-	6. CSS
-	7. R 
-	8. SQL
-	9. React Native
+* Languages: Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, React Native, Python, R. 
 
-* Test languages: 
-	1. RSpec
-	2. Jest
-	3. Jasmine
-	4. Capybara
+* Test languages: RSpec, Jest, Jasmine, Capybara
 
 * Agile and XP methodolgies
+
 * Test driven development 
-* Good Git and Github knowledge
+
+* Great Git and Github knowledge
 
 ## [Skills](#skills)
 
@@ -81,11 +70,11 @@ I was also responsible for organising and preparing patient prescription receipt
 
 ## Voluntary experience: 
 
-I have always had an interest in volunteer work and have had multiple experiences in volunteering. For the sake of keeping this CV short, I have ommited the details of each voluntary role, but I am always happy to talk further about these experiences:
+I have always felt strongly about the environment and animal welfare, which has been a focus of mine when it comes to voluntary work and which was a big factor in me following an initial career in biology. I also feel strongly about the importance of first aid and mental health, which is why I have always tried to keep my first aid training up to date and have qualified as a mental health first aider. For the sake of keeping this CV short, I have ommited the details of each voluntary role, but I am always happy to talk further about these experiences:
 
 * **Data collector, Earthwatch, Germany (Full-time) June 2014 – June 2014**	
 * **Data collector, Frontier, Fijian Island of Gau (Full-time) April 2012 – May 2012**
-* **Volunteer care assistant, RSPCA, Stapeley (part-time) November 2009 – July 2012**	
+* **Volunteer care assistant, RSPCA, Stapeley (part-time) November 2009 – July 2014**	
 * **Volunteer, St John Ambulance, Hanley Division (part-time) December 2009 – July 2012**
 
 ## [Education](#work-experience):
