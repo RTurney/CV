@@ -1,5 +1,5 @@
 # Richard James Turney - CV
-[Introduction](#personal-profile)| [Projects](#projects) | [Software Skills](#software-skills) | [Skills](#software-skills) | [Experience](#work-experience) | [Education](#work-experience) | [Interests](#interests) (the human part) | [Contact](#contact)
+[Introduction](#personal-profile) | [Projects](#projects) | [Software Skills](#software-skills) | [Skills](#software-skills) | [Experience](#work-experience) | [Education](#work-experience) | [Interests](#interests) (the human part) | [Contact](#contact)
 
 ## [Personal profile](#personal-profile):
 
