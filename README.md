@@ -3,11 +3,12 @@
 
 ## [Personal profile](#personal-profile):
 
-Junior full stack developer with an interest in both frontend and backend development. I have recently switched from a career in Biological sciences to software development with the aid of Makers 12-week bootcamp. This bootcamp has helped me advance from an interested self-taught amateur to a confident junior developer. 
+Ex-biologist turned software developer. I specialise in Mobile development utilising React Native, but I am also well-versed in Swift and the development of iOS applications. I am interested in both full stack development but am more experienced with front-end development due to my experiences at AND digital. Outside of mobile application development, I am also experinced in website development utilising either Javascript or Ruby. 
 
 I am a driven and hardworking individual with a keen mind for problem solving. I have excellent communication skills, both written and spoken, priding myself on my ability to help others understand complex or difficult concepts. I am always eager to expand my existing knowledge and skillset, either through self-led learning or courses. I am quick to grasp new concepts and apply them to my existing skillset. I am always happy to meet new people and enjoy working in a team. I believe I am a good team member, who is always ensuring that every team member feels included and part of the team's decisions. 
 
-I am now currently looking for a role in London/Reading/Cambridge which will allow me to further consolidate and develop my programming knowledge, as well as gain exposure to current business practices. 
+I am now currently looking for a role in London/Reading/Cambridge which will allow me to further develop and progress my career in mobile software development. I am excited to meet any new challenges and look forward to hearing from you. 
+
 
 ## [Projects](#projects):
 
@@ -21,7 +22,9 @@ SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. W
 
 ## [Software skills](#software-skills): 
 
-* Languages: Ruby, Ruby on Rails, Javascript, HTML, CSS, SQL, React Native, Python, R. 
+* Languages: Javascript, Swift, Ruby, HTML, CSS, SQL
+
+* Frameworks: React, React Native, Ruby on Rails, Node.js
 
 * Test languages: RSpec, Jest, Jasmine, Capybara
 
@@ -42,6 +45,15 @@ SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. W
 * **Determined** - A key attribute to my personality and my most valued skill. I work with a constant determination regardless of the challenge ahead of me. I don't like to leave something unfinished and will always push myself to the best of my abilities. 
 
 ## [Work experience](#work-experience):
+
+#### Associate, Club Newton, AND Digital, Reading (May 2021 - current date)
+
+As an associate at AND digital, I worked as a software developer consulting at several clients; Oak Furniture Land, Axora & NeuroInsight. 
+On these clients I worked as a React Native developer, constructing and testing new features within these mobile applications. 
+As one of AND's main goals is to 'close the digital skills gap', we were also responsible for educating our clients in the application of Agile methodologies for product delivery and demonstrating the latest features of languages/ frameworks. 
+Within AND Digital I took on the role of a Mental Health Champion within our club, promoting good workplace mental health through initiatives and talks. 
+During my time at AND I was also mentored and upskilled in iOS development using Swift and XCode, but also gained alot experience of UX and PA roles from our cross-functional teams. 
+Although I am still working at AND digital, I am currently looking for roles within Mobile software development which will provide me with more challenges and further progress my career in Mobile software development. 
 
 #### Microscopy Specialist, Imaging and Analysis Centre, Natural History Museum, London (September 2018 – January 2021)
 
