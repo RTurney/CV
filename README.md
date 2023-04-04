@@ -17,7 +17,7 @@ Project Title | Project link | Summary |Tech tools
 Learning Portfolio | https://github.com/RTurney/Learning-portfolio | The portfolio of projects I developed during my time at Makers academy | Ruby, Javascript, HTML, SQL, CSS, Ruby on Rails, Jest, Rspec, Capybara, Jasmine 
 Recipe Api | https://github.com/RTurney/Recipe_API | A solo project to demonstrate my ability to develop a basic api | Javascript, Node.js, MongoDB. 
 Covid dashboard | https://github.com/RTurney/Covid-dashboard | A basic dashboard utilising Open disease data API to display Covid-19 data | React, CSS, Javascript
-SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. We designed our own mobile app which was a gameified todo list | Javascript, REACT native, Jest, Firebase, HTML, CSS
+SassTask | https://github.com/RTurney/SassTask | Makers Academy final project. We designed our own mobile app which was a gameified todo list and V-pet| Javascript, REACT native, Jest, Firebase, HTML, CSS
 
 
 ## [Software skills](#software-skills): 
